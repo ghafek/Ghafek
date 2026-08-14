@@ -1,16 +1,13 @@
-## Hi there 👋
+# Ghafek Alsaho
 
-<!--
-**ghafek/Ghafek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Technische Universität Berlin, based in Berlin, Germany.
 
-Here are some ideas to get you started:
+Backend and data systems: automation, API integrations, Kubernetes operations and root-cause analysis in production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Finishing a bachelor thesis on automated process-family identification and anomaly
+detection in semiconductor manufacturing, with the Big Data Engineering (DAMS) group
+at TU Berlin and the Ferdinand-Braun-Institut.
+
+**[Apache SystemDS — Star Schema Benchmark](https://github.com/apache/systemds/commit/20a7b67419e284ed908ededd19e80cd2713dca5a)** · `merged Jan 2026`
+
+All 13 standard SSB queries in DML, with shell harnesses for automated performance runs.
