@@ -1,4 +1,4 @@
-# Ghafek Alsaho
+# Hey, I'm Ghafek 👋
 
 Computer Science student at Technische Universität Berlin, based in Berlin, Germany.
 
